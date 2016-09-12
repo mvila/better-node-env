@@ -4,6 +4,10 @@
   "description": "NODE_ENV || 'development' for Node and browser",
   "author": "Manuel Vila <mvila@3base.com>",
   "license": "MIT",
+  "files": [
+    "index.js",
+    "browser.js"
+  ],
   "main": "index.js",
   "browser": "browser.js",
   "repository": {
